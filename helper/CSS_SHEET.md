@@ -50,3 +50,5 @@ background: #00008B;
 </style>
 </head>
 <body>
+
+[per altre informazioni consulta questo utilissimo link](https://www.kadath.it/Risorse/CSS.pdf)
